@@ -4,5 +4,5 @@ Then application will ask you about resolution. (Like you have picture 1000x1000
 Also program shows recomended resolution number.
 If it .gif fromat application will ask you will it show only main picture or all pictures. 
 If you choose 'show all images', program couldn't save all of them into txt files (just because common, save all frames to .txt files, ridicuolus).
-In the end program will show you ascii text of photo and will ask you about saving it to .txt file. If you want to save you should type direction for your new .txt file
+In the end program will show you ascii text of photo and will ask you about saving it to .txt file. If you want to save you should type direction for your new .txt file.
 To run application you must have OS win 10 with System.dll, System.Drawing.Dll, mscorlib.dll, WindowsBase.dll and PresentationCore.dll
