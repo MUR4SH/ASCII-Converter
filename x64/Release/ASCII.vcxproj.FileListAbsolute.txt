@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\GitHub\ASCII-Converter\x64\Release\ASCII.vcxprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\ASCII-Converter\x64\Release\ASCII.exe

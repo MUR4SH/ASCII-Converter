@@ -1,7 +1,8 @@
 #pragma once
+#pragma managed
 #include <String> //to return string
 #include <fstream> //Check existing of file
-#include <direct.h>
+#include <iostream>
 #using <System.dll>
 #using <System.Drawing.Dll> //Dll for Bitmap and Color classes
 #using <mscorlib.dll>
